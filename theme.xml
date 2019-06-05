@@ -36,7 +36,7 @@ Carousel wheel and main menu background
       <text name="systemInfo">     
          <pos>0.35 0.92</pos>
          <backgroundColor>00000000</backgroundColor>
-         <color>ffffff</color>
+         <color>000000</color>
          <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
 	     <fontSize>0.03</fontSize>
          <zIndex>45</zIndex>	     
@@ -64,8 +64,8 @@ On Screen help
          <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
          <fontSize>0.03</fontSize>     
          <pos>0.2 0.948</pos>      
-         <textColor>ffffff</textColor>
-         <iconColor>ffffff</iconColor>
+         <textColor>000000</textColor>
+         <iconColor>000000</iconColor>
       </helpsystem>
    </view>     
    
@@ -77,7 +77,7 @@ System Gamelist
       <textlist name="gamelist">
          <zIndex>2</zIndex>	      
          <selectorColor>1c1c1c00</selectorColor> 
-	     <selectedColor>e24639</selectedColor>     
+	     <selectedColor>f57722</selectedColor>     
          <pos>0.062 0.213</pos>
          <size>0.23 0.67</size>
          <primaryColor>ffffff</primaryColor>
@@ -139,7 +139,7 @@ Metadata, description, rating etc
          <pos>1 1</pos>
       </text>
       <text name="md_lbl_rating,md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount,md_lbl_players,md_developer, md_publisher, md_genre, md_playcount, md_lastplayed,md_description,md_players,md_releasedate">
-         <color>e24639</color>
+         <color>f57722</color>
          <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
          <fontSize>0.025</fontSize>
       </text>
